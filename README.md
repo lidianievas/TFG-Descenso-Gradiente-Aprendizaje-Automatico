@@ -6,7 +6,7 @@ Trabajo Fin de Grado realizado en el **Grado en Matemáticas de la Universidad d
 
 Este proyecto estudia los fundamentos matemáticos y las aplicaciones del **descenso por gradiente**, uno de los principales métodos de optimización utilizados en aprendizaje automático.
 
-El trabajo combina el estudio teórico de los métodos de optimización con diferentes aplicaciones computacionales en problemas de Machine Learning.
+El trabajo combina el estudio teórico de los métodos de optimización con diferentes aplicaciones computacionales en problemas de **Machine Learning**, analizando tanto las propiedades de convergencia como el comportamiento práctico de diferentes algoritmos.
 
 ## 🧮 Contenidos
 
@@ -21,13 +21,18 @@ El trabajo combina el estudio teórico de los métodos de optimización con dife
 
 ## 🛠️ Tecnologías
 
+**Lenguaje y entorno**
+
 * Python
+* Jupyter Notebook
+
+**Librerías**
+
 * NumPy
 * Pandas
 * Matplotlib
 * Scikit-learn
 * PyTorch
-* Jupyter Notebook
 
 ## 📄 Documento
 
@@ -38,3 +43,6 @@ El trabajo combina el estudio teórico de los métodos de optimización con dife
 **Grado en Matemáticas — Universidad de Granada**
 
 **Trabajo Fin de Grado:** *Fundamentos y aplicaciones del descenso por gradiente en aprendizaje automático*
+
+**Calificación:** 9,7/10
+
