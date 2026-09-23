@@ -38,6 +38,13 @@ El trabajo combina el estudio teórico de los métodos de optimización con dife
 
 [Consultar el TFG completo](./GDenML_LidiaNievas.pdf)
 
+## 💻 Código y experimentos
+
+El código utilizado para las implementaciones y experimentos computacionales del trabajo está disponible en el repositorio de la **Universidad de Granada**:
+
+👉 [Consultar el código y los experimentos]((https://github.com/lidianievasugr/TrabajoFinGrado))
+
+
 ## 🎓 Información académica
 
 **Grado en Matemáticas — Universidad de Granada**
