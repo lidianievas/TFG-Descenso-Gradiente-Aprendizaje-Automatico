@@ -41,6 +41,7 @@ El trabajo combina el estudio teórico de los métodos de optimización con dife
 ## 💻 Código y experimentos
 
 El código utilizado para las implementaciones y experimentos computacionales del trabajo está disponible en el repositorio de la **Universidad de Granada**:
+
 👉 [Consultar el código y los experimentos](https://github.com/lidianievasugr/TrabajoFinGrado)
 
 
